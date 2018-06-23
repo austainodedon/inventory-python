@@ -1,5 +1,6 @@
 # inventory-python
 # a python inventory for supermarkets
+# version 2 of a python inventory for supermarkets to have images and nice design
 from tkinter import *
 from tkinter import ttk
 import sqlite3
